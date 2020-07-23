@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "zh-tw"
+title = "菲林玩樂"
+theme = "newsroom"
+DefaultContentLanguage = "zh-tw"
