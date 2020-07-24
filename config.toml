@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://sweslo17.github.io/film-playground/"
 languageCode = "zh-tw"
 title = "菲林玩樂"
 theme = "newsroom"
