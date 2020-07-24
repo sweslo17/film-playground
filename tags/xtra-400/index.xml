@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xtra-400 on 菲林玩樂</title>
+    <link>http://example.org/tags/xtra-400/</link>
+    <description>Recent content in Xtra-400 on 菲林玩樂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 23 Jul 2020 18:37:18 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/xtra-400/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>夏日午後</title>
+      <link>http://example.org/post/summer-office/</link>
+      <pubDate>Thu, 23 Jul 2020 18:37:18 +0800</pubDate>
+      
+      <guid>http://example.org/post/summer-office/</guid>
+      <description>&lt;p&gt;其實是春天的陽光，在每天上班的地方&lt;br&gt;
+這個地方同時承載著嚮往與厭惡兩種情緒。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
