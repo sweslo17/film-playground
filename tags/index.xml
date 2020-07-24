@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 菲林玩樂</title>
-    <link>http://example.org/tags/</link>
+    <link>https://sweslo17.github.io/film-playground/tags/</link>
     <description>Recent content in Tags on 菲林玩樂</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 23 Jul 2020 18:37:18 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sweslo17.github.io/film-playground/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Olympus pen eed</title>
-      <link>http://example.org/tags/olympus-pen-eed/</link>
+      <link>https://sweslo17.github.io/film-playground/tags/olympus-pen-eed/</link>
       <pubDate>Thu, 23 Jul 2020 18:37:18 +0800</pubDate>
       
-      <guid>http://example.org/tags/olympus-pen-eed/</guid>
+      <guid>https://sweslo17.github.io/film-playground/tags/olympus-pen-eed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xtra-400</title>
-      <link>http://example.org/tags/xtra-400/</link>
+      <link>https://sweslo17.github.io/film-playground/tags/xtra-400/</link>
       <pubDate>Thu, 23 Jul 2020 18:37:18 +0800</pubDate>
       
-      <guid>http://example.org/tags/xtra-400/</guid>
+      <guid>https://sweslo17.github.io/film-playground/tags/xtra-400/</guid>
       <description></description>
     </item>
     
